@@ -273,7 +273,7 @@ while ($row=mysqli_fetch_array($ret)) {
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Need emergency ambulance services? Get in touch with us immediately. Our dedicated team is available 24/7 to assist you during medical emergencies. We ensure rapid response times and professional medical transport services across the region.</p>
         </div>
 
       </div>
